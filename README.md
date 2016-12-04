@@ -1,0 +1,1 @@
+使用Mapreduce将文本数据批量索引至solr
